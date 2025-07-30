@@ -2,7 +2,7 @@
 
 # Signal Strength Mapping, Prediction & Coverage Gap Detection Using ML
 
-This project uses real-world telecom (UMTS) signal data to:
+This project uses real-world telecom (UMTS,LTE) signal data to:
 
 -  Visualize signal strength geographically
 -  Predict signal strength at new locations using Machine Learning
